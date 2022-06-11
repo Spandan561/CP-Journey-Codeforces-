@@ -5,6 +5,8 @@
 **     Solution by Baspannissu         **
 ****************************************/
 
+//Basic math Problem...
+
 #include<bits/stdc++.h>
 #include<stdio.h>
 #include <algorithm>
